@@ -50,7 +50,14 @@ public class Main {
 
         }
 
-       
+        String fileName = "employee.txt";
+        File loadFile = new File("employee.txt");
+        try (Scanner reader = new Scanner(loadFile)) {
+            while (reader.hasNextLine()) {
+                System.out.println(reader.nextLine());
+
+            }
+        }
 
 
     }

@@ -18,7 +18,7 @@ public class Employee {
     }
 
     public void setName(String name) {
-        if (name.trim().isEmpty() ) {
+        if (name.trim().isEmpty() || name == null) {
             throw new IllegalArgumentException("Name cannot be null or empty");
         }
         this.name = name;
