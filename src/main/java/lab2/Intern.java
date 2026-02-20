@@ -2,7 +2,7 @@ package lab2;
 
 public class Intern extends Employee {
 
-    public static final double MAX_SALARY = 20000;
+    public static final double MAX_SALARY = 2000;
 
     public Intern(String name, String email, int age, double salary) {
         super(name, email, age, salary);
