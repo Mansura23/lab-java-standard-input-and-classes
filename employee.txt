@@ -1,0 +1,23 @@
+eertssty122000
+eertssty122000
+eertssty122000
+Name: Ali Email: ali@mail.com Age: 25 Salary: 3500.0
+Name: Leyla Email: leyla@mail.com Age: 28 Salary: 4200.0
+Name: Murad Email: murad@mail.com Age: 30 Salary: 5000.0
+Name: Nigar Email: nigar@mail.com Age: 22 Salary: 2800.0
+Name: Kamran Email: kamran@mail.com Age: 35 Salary: 6000.0
+Name: Aysel Email: aysel@mail.com Age: 27 Salary: 3900.0
+Name: Rauf Email: rauf@mail.com Age: 40 Salary: 7500.0
+Name: Sevda Email: sevda@mail.com Age: 24 Salary: 3100.0
+Name: Tural Email: tural@mail.com Age: 29 Salary: 4700.0
+Name: Gunel Email: gunel@mail.com Age: 26 Salary: 3600.0
+Name: Ali Email: ali@mail.com Age: 25 Salary: 3500.0
+Name: Leyla Email: leyla@mail.com Age: 28 Salary: 4200.0
+Name: Murad Email: murad@mail.com Age: 30 Salary: 5000.0
+Name: Nigar Email: nigar@mail.com Age: 22 Salary: 2800.0
+Name: Kamran Email: kamran@mail.com Age: 35 Salary: 6000.0
+Name: Aysel Email: aysel@mail.com Age: 27 Salary: 3900.0
+Name: Rauf Email: rauf@mail.com Age: 40 Salary: 7500.0
+Name: Sevda Email: sevda@mail.com Age: 24 Salary: 3100.0
+Name: Tural Email: tural@mail.com Age: 29 Salary: 4700.0
+Name: Gunel Email: gunel@mail.com Age: 26 Salary: 3600.0
